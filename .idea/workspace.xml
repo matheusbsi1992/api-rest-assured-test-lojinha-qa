@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fedc2b0e-a971-4be8-8e56-60498796828e" name="Changes" comment="Estudos sobre API Rest Assured">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataFactory/ProdutoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/ComponenteModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/ProdutoModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/UsuarioModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/modelos/produto/ProdutoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2euvC9aIrVnJk8UE4LdffEi6alN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ProdutoTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/opt/projetossspring/api-rest-assured-test-qa-lojinha/lojinhaAPIAutomacao",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ProdutoTest">
+    <configuration name="ProdutoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-rest-assured-teste-lojinha-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modelos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modelos.produto.ProdutoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testeValidarBuscadorProdutoPorID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-rest-assured-teste-lojinha-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modelos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modelos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testeValidarBuscadorProdutoPorID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testeValidarBuscadosProdutoPorID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-rest-assured-teste-lojinha-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modelos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modelos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testeValidarBuscadosProdutoPorID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testeValidarInsercaodoProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-rest-assured-teste-lojinha-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modelos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modelos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testeValidarInsercaodoProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest.testeValidarRemoverProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-rest-assured-teste-lojinha-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelos.produto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modelos.produto" />
+      <option name="MAIN_CLASS_NAME" value="modelos.produto.ProdutoTest" />
+      <option name="METHOD_NAME" value="testeValidarRemoverProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProdutoTest" />
+        <item itemvalue="JUnit.ProdutoTest.testeValidarBuscadorProdutoPorID" />
+        <item itemvalue="JUnit.ProdutoTest.testeValidarBuscadosProdutoPorID" />
+        <item itemvalue="JUnit.ProdutoTest.testeValidarInsercaodoProduto" />
+        <item itemvalue="JUnit.ProdutoTest.testeValidarRemoverProduto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fedc2b0e-a971-4be8-8e56-60498796828e" name="Changes" comment="" />
+      <created>1712767150950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712767150950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estudos sobre API Rest Assured" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudos sobre API Rest Assured" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/modelos/produto/ProdutoTest.java</url>
+          <line>54</line>
+          <properties class="modelos.produto.ProdutoTest" method="testValidarLimiteProibidoValorZeroProduto">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/modelos/produto/ProdutoTest.java</url>
+          <line>79</line>
+          <properties class="modelos.produto.ProdutoTest" method="testValidarLimiteProibidoValorSeteMilProduto">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
