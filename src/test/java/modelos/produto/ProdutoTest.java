@@ -36,7 +36,7 @@ public class ProdutoTest {
         basePath = PATH;
 
         //Obter o token do usuario
-        usuarioModel = new UsuarioModel("meu usuario", "senha do usuario");
+        usuarioModel = new UsuarioModel("meu usuario respectivo", "senha do usuario");
 
         token = given()
                 .contentType(ContentType.JSON)
